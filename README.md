@@ -15,17 +15,17 @@ P.S. I'm open everytime to learn or to do something cool 🧠.<br />
 
 ---
 
-<h3 style="text-align: center;">𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴 :</h3>
+<h3 style="text-align: left;">𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴 :</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,lua,md,cs,css,html,py,bash,dotnet,neovim,figma,blender,notion,rider,visualstudio,vscode,svg,unity,unreal" />
 
   </a>
 </p>
 
-<h3 style="text-align: center;">𝘖𝘱𝘦𝘳𝘢𝘵𝘪𝘯𝘨 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 :</h3>
-<p align="center">
+<h3 style="text-align: left;">𝘖𝘱𝘦𝘳𝘢𝘵𝘪𝘯𝘨 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 :</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,redhat,apple" />
   </a>
