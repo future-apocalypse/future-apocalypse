@@ -1,9 +1,8 @@
 # 𝐅𝐮𝐭𝐮𝐫𝐞𝐀𝐩𝐨𝐜𝐚𝐥𝐲𝐩𝐬𝐞
  
-**`Indie iOS Developer/Game Developer/Digital Artist/Genius/Billionaire/Playboy/Philanthropist/Philosopher`**
+**`Solopreneur/iOS Dev/Game Dev/Digital Artist/Genius/Billionaire/Playboy/Philanthropist/Philosopher`**
 
 Hello 🙋🏻‍♂️, hope you're doing well. My name is Mihail Verejan, I'm from Moldova 🇲🇩
-Y2K boy.
 
 ---
 
