@@ -1,25 +1,35 @@
-# 𝐅𝐮𝐭𝐮𝐫𝐞𝐀𝐩𝐨𝐜𝐚𝐥𝐲𝐩𝐬𝐞
- 
-**`Solopreneur/iOS Dev/Game Dev/Digital Artist/Genius/Billionaire/Playboy/Philanthropist/Philosopher`**
+# Hey there! 
 
-Hello 🙋🏻‍♂️, hope you're doing well. My name is Mihail Verejan, I'm from Moldova 🇲🇩
+I'm Mihail, an iOS developer and Unity game developer based in Moldova.
+
+I build mobile apps using **Swift & SwiftUI**, and create games in **Unity (C#)**.  
+I care a lot about **performance, clean UI, and simplicity** both in code and design.
+
+Most of my work focuses on creating things that are lightweight, efficient, and feel smooth on any device.
+
+---
+
+## What I Work With
+
+- **iOS Development:** Swift, SwiftUI, MVVM  
+- **Game Development:** Unity, C#  
+- **3D Modeling:** Blender (low-poly, optimized assets)  
+- **Other:** Git, Xcode, Figma, JetBrains Rider 
 
 ---
 
-<h3 style="text-align: left;">𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴 :</h3>
+## Current Focus
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,swift,md,bash,dotnet,figma,blender,notion,rider,visualstudio,vscode,unity" />
-
-  </a>
-</p>
-
-<h3 style="text-align: left;">𝘖𝘱𝘦𝘳𝘢𝘵𝘪𝘯𝘨 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 :</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,redhat,apple" />
-  </a>
-</p>
+- Building and refining iOS applications  
+- Improving app architecture and code quality  
+- Creating small, polished Unity game prototypes  
+- Learning how to turn ideas into real, usable products  
 
 ---
+
+## Development Style
+
+- Minimalistic and clean design  
+- Performance-first mindset  
+- Reusable and scalable code  
+- No unnecessary complexity 
